@@ -210,9 +210,3 @@ To:
 This project demonstrates the practical implementation of data transformation and integration using Power Query, simulating real-world data engineering processes.
 
 ---
-
-# 💬 Viva Statement
-
-“I performed end-to-end ETL operations using Power Query, including dynamic data loading, transformation, and refresh automation.”
-
----
