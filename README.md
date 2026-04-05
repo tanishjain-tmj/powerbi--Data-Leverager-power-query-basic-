@@ -28,25 +28,23 @@ To simulate a real-world data engineering workflow using Power BI’s Power Quer
 * Loaded data from Wikipedia (GDP table)
 
 📸 Screenshot:
+<img width="1841" height="951" alt="Screenshot 2026-04-05 175154" src="https://github.com/user-attachments/assets/49f55e26-e55b-4ad5-9271-f5d421375186" />
 
----
 
 ### 🔸 1.2 Load Multiple Excel Files (Jan, Feb, Mar)
 
 * Used **Get Data → Folder**
 * Combined files using append
-
-📸 Screenshot:
-
----
+  
 
 ### 🔸 1.3 Load Employee Dataset
 
 * Loaded Excel file containing employee details
 
 📸 Screenshot:
+<img width="1722" height="828" alt="Screenshot 2026-04-05 180516" src="https://github.com/user-attachments/assets/80daca6e-d264-4873-afcd-304252536564" />
 
----
+
 
 ## ✅ Step 2: Basic Transformations
 
@@ -60,8 +58,8 @@ Performed the following operations:
 * Filtered null values
 
 📸 Screenshot:
+<img width="1712" height="854" alt="Screenshot 2026-04-05 180630" src="https://github.com/user-attachments/assets/b8b76ab7-f8e9-47fa-9837-1ec090a82e4b" />
 
----
 
 ## ✅ Step 3: Text Cleaning
 
@@ -74,7 +72,8 @@ Applied text functions:
 * REPLACE()
 * Split Column by Delimiter
 
-📸 Screenshot:
+ Screenshot:
+📸<img width="1712" height="855" alt="Screenshot 2026-04-05 181724" src="https://github.com/user-attachments/assets/45427c5b-bd7c-4406-ad18-860e4cb26a74" />
 
 ---
 
@@ -86,6 +85,8 @@ Applied text functions:
   * Profit = Revenue – Cost
 
 📸 Screenshot:
+<img width="1705" height="860" alt="Screenshot 2026-04-05 182028" src="https://github.com/user-attachments/assets/8fda5b5f-c6aa-49fa-883b-adb01766ce9a" />
+<img width="1713" height="852" alt="Screenshot 2026-04-05 182315" src="https://github.com/user-attachments/assets/6b8aa231-e27f-470c-b394-2039d629205f" />
 
 ---
 
@@ -104,6 +105,8 @@ Applied text functions:
   * Age column from Birthdate
 
 📸 Screenshot:
+<img width="1745" height="877" alt="Screenshot 2026-04-05 183201" src="https://github.com/user-attachments/assets/8d75e290-0411-4725-a936-b00ce676abb6" />
+<img width="1715" height="849" alt="Screenshot 2026-04-05 184054" src="https://github.com/user-attachments/assets/72144de1-ee85-4730-b52f-2bfced76eda4" />
 
 ---
 
@@ -120,6 +123,7 @@ Applied text functions:
   * Index column (0-based and 1-based)
 
 📸 Screenshot:
+<img width="1742" height="842" alt="Screenshot 2026-04-05 183727" src="https://github.com/user-attachments/assets/a87b2e6a-93be-4d03-acf7-80be16e715b9" />
 
 ---
 
@@ -128,9 +132,6 @@ Applied text functions:
 * Converted monthly columns into rows using **Unpivot Columns**
 * Normalized dataset structure
 
-📸 Screenshot:
-
----
 
 ## ✅ Step 8: Merging & Appending
 
@@ -143,6 +144,9 @@ Applied text functions:
   * Monthly sales data (Jan–Apr)
 
 📸 Screenshot:
+<img width="1735" height="838" alt="Screenshot 2026-04-05 184301" src="https://github.com/user-attachments/assets/ea10ee3c-e78b-4807-a869-270dc014bba6" />
+<img width="1725" height="842" alt="Screenshot 2026-04-05 191541" src="https://github.com/user-attachments/assets/8535b4f8-4039-4f96-b9b0-458103324c6c" />
+
 
 ---
 
@@ -155,6 +159,7 @@ Grouped data by Region and calculated:
 * Transaction Count
 
 📸 Screenshot:
+<img width="1704" height="846" alt="Screenshot 2026-04-05 184648" src="https://github.com/user-attachments/assets/dd4c4ee7-5a9e-4a93-98a4-0fc695580bcd" />
 
 ---
 
@@ -173,6 +178,7 @@ To:
 * Analyze unique values
 
 📸 Screenshot:
+<img width="1746" height="908" alt="Screenshot 2026-04-05 185003" src="https://github.com/user-attachments/assets/002b77dc-5983-4f61-b909-9d7a3f55b344" />
 
 ---
 
@@ -182,9 +188,6 @@ To:
 * Linked parameter to folder source
 * Configured data source credentials
 
-📸 Screenshot:
-
----
 
 ## ✅ Step 12: Refresh Simulation
 
@@ -192,9 +195,6 @@ To:
 * Clicked **Refresh**
 * Verified automatic data update
 
-📸 Screenshot:
-
----
 
 # 📈 Final Outcome
 
